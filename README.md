@@ -1,9 +1,12 @@
 # Major features of the project:
 
 Build RestAPI for a BlogPost Application that has the below API-Routes:-
--> Signup, Login, Password Reset 
--> only Authenticated Users able to create, update and delete Blogs
--> default route, gives data of 10 blogs using limit and skip from mongoose.
+
+i) Signup, Login, Password Reset 
+
+ii) only Authenticated Users able to create, update and delete Blogs
+
+iii) default route, gives data of 10 blogs using limit and skip from mongoose.
 
 # Getting Started with Create React App
 
